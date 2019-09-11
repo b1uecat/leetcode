@@ -1,2 +1,2 @@
 # leetcode
-play with leetcode oj
+test with drone ci
